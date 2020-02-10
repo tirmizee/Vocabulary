@@ -1,5 +1,7 @@
 # Vocabulary
 
-    See how = มาดูกันว่า
+    see how = มาดูกันว่า
 
-    As we all = อย่างที่เราทุกคน
+    as we all = อย่างที่เราทุกคน
+    
+    go as = เป็นดังเช่น
